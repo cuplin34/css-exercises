@@ -1,0 +1,13 @@
+.button{
+    font-family: helvetica, 'Times New Roman', sans-serif;
+    font-size: 28px;
+}
+
+.real{
+    background-color: black;
+    color: white;
+}
+
+.fake{
+    background-color: yellow;
+}
